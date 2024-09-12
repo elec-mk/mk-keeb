@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/libraries/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "RP2040_Stamp")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040_Stamp.kicad_sym")(options "")(descr ""))
+  (lib (name "mk_keeb")(type "KiCad")(uri "${KIPRJMOD}/libraries/mk_keeb.kicad_sym")(options "")(descr ""))
+)

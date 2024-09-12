@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "keyboard-footprints-main")(type "KiCad")(uri "${KIPRJMOD}/libraries/keyboard-footprints-main")(options "")(descr ""))
+  (lib (name "RP2040_Stamp")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040_Stamp.pretty")(options "")(descr ""))
+  (lib (name "mk_keeb")(type "KiCad")(uri "${KIPRJMOD}/libraries/mk_keeb.pretty")(options "")(descr ""))
+)
